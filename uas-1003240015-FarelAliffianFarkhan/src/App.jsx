@@ -36,7 +36,7 @@ function App() {
       <header>
         <h1>CinemaKampus</h1>
         
-        <p className="student-info">Lintang Arifsetianda - 1003240023</p>
+        <p className="student-info">Farel ALiffian Farkhan - 1003240015</p>
         
         <input
           type="text"
