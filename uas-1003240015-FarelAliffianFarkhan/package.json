@@ -1,5 +1,5 @@
 {
-  "name": "uas-1003240015-farelaliffianfarkhan",
+  "name": "uas-frontend-fix",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,18 +10,18 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^19.2.0",
-    "react-dom": "^19.2.0",
-    "vite": "^7.2.4",
-    "@vitejs/plugin-react": "^5.1.1"
+    "react": "latest",
+    "react-dom": "latest",
+    "vite": "latest",
+    "@vitejs/plugin-react": "latest"
   },
   "devDependencies": {
-    "@eslint/js": "^9.39.1",
-    "@types/react": "^19.2.5",
-    "@types/react-dom": "^19.2.3",
-    "eslint": "^9.39.1",
-    "eslint-plugin-react-hooks": "^7.0.1",
-    "eslint-plugin-react-refresh": "^0.4.24",
-    "globals": "^16.5.0"
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@eslint/js": "latest",
+    "eslint": "latest",
+    "eslint-plugin-react-hooks": "latest",
+    "eslint-plugin-react-refresh": "latest",
+    "globals": "latest"
   }
 }
